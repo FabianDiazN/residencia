@@ -25,3 +25,6 @@
 - Mq-135
 
 - ARD-07
+
+## Diagrama de conexiones:
+[diagrama.png](https://postimg.cc/QKdT0vJm)
