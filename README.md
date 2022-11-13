@@ -27,4 +27,5 @@
 - ARD-07
 
 ## Diagrama de conexiones:
-[diagrama.png](https://postimg.cc/QKdT0vJm)
+
+[![diagrama.png](https://i.postimg.cc/gjvHkWwC/diagrama.png)](https://postimg.cc/QKdT0vJm)
