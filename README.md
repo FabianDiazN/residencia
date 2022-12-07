@@ -1,8 +1,4 @@
-
-<h1 align="center">⏮Instituto Tecnológico Superior de Mulegé⏩</h1>
-
-<p align="center"> <img width="" height=""> </p>
-<h1 align="center"> “Diseño y construcción de estación para el monitoreo de bajo costo para condiciones termo higrométricas, densidad de polvo y gases tóxicos en mina subterránea.”</h1>
+[![portada.png](https://i.postimg.cc/zB67fSXz/portada.png)](https://postimg.cc/cg7w93n2)
 
 ## Herramientas usadas:
 - VScode
@@ -29,3 +25,4 @@
 ## Diagrama de conexiones:
 
 [![diagrama.png](https://i.postimg.cc/gjvHkWwC/diagrama.png)](https://postimg.cc/QKdT0vJm)
+
